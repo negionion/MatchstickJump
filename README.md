@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[![MatchstickJump DEMO](https://img.youtube.com/vi/oL2FxVaWCg4/maxresdefault.jpg)](https://www.youtube.com/watch?=oL2FxVaWCg4)
+[![MatchstickJump DEMO](https://img.youtube.com/vi/oL2FxVaWCg4/0.jpg)](https://www.youtube.com/watch?=oL2FxVaWCg4)
 
 ## Detail
 
