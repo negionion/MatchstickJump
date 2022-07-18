@@ -1,21 +1,21 @@
-# MatchstickJump
+# Matchstick Jump
+
+## 2D平台跳躍遊戲
+
+Java Source Code
+> 2019/05
 
 ## DEMO
 
-[![MatchstickJump DEMO](https://img.youtube.com/vi/oL2FxVaWCg4/0.jpg)](https://youtu.be/oL2FxVaWCg4)
+[![Matchstick Jump DEMO](https://img.youtube.com/vi/oL2FxVaWCg4/0.jpg)](https://youtu.be/oL2FxVaWCg4)
 
 ## Detail
 
-- 使用Java及swing工具包撰寫
-- Java課程期末作品
-- 多執行緒應用
-- 全部內容自製
+使用Java進行開發，沒有使用遊戲引擎。玩家可以使用方向鍵進行移動與跳躍、空白鍵拾取道具。提供圖形化的自訂地圖設計，可以快速建立新地圖、導入或導出地圖資料、建立連續關卡等功能。
 
-## 實作功能
+## 相關技術
 
-- 關卡邏輯
-- 人物控制
-- 動畫系統
-- 實時互動系統
-- 圖形化關卡設計
-- 其他...(可參閱原始碼)
+- 實時遊戲系統(多執行緒)
+- 物理碰撞(幾何運算)
+- 自訂地圖(GUI)
+- 地圖編碼
